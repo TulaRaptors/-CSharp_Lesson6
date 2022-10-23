@@ -1,0 +1,15 @@
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\bin\Debug\net6.0\Ex001_BivariateArray.exe
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\bin\Debug\net6.0\Ex001_BivariateArray.deps.json
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\bin\Debug\net6.0\Ex001_BivariateArray.runtimeconfig.json
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\bin\Debug\net6.0\Ex001_BivariateArray.dll
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\bin\Debug\net6.0\Ex001_BivariateArray.pdb
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\Ex001_BivariateArray.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\Ex001_BivariateArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\Ex001_BivariateArray.AssemblyInfoInputs.cache
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\Ex001_BivariateArray.AssemblyInfo.cs
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\Ex001_BivariateArray.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\Ex001_BivariateArray.dll
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\refint\Ex001_BivariateArray.dll
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\Ex001_BivariateArray.pdb
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\Ex001_BivariateArray.genruntimeconfig.cache
+C:\Users\Sergey\Desktop\GB\C#\HW_6\Ex001_BivariateArray\obj\Debug\net6.0\ref\Ex001_BivariateArray.dll
